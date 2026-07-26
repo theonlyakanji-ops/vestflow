@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-380-zero-start-time",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-380-zero-start-time": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-380-zero-start-time",
+    "origin"
+  ]
+}
